@@ -204,10 +204,6 @@ Tested on 100 medical questions:
 - [Ollama](https://ollama.ai) - Local LLM deployment
 - [Mistral AI](https://mistral.ai) - Base model
 
-### Related Models
-- [BioMistral](https://huggingface.co/BioMistral/BioMistral-7B) - Medical Mistral variant
-- [Meditron](https://huggingface.co/epfl-llm/meditron-7b) - Medical Llama model
-
 ---
 
 ## 🤝 Contributing
