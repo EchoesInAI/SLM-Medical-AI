@@ -257,14 +257,6 @@ Ideas for contributions:
 
 ---
 
-## 📬 Contact
-
-Questions? Issues? Ideas?
-- Open an [issue](../../issues)
-- Start a [discussion](../../discussions)
-- Read the [blog post](your-blog-link)
-
----
 
 ## ⭐ Star This Repo
 
