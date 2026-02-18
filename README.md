@@ -37,24 +37,7 @@ Train a specialized medical AI that:
 
 ## 🚀 Quick Start
 
-### Option 1: Use Pre-Trained Medical Model
-
-Just want to try a medical AI locally?
-
-```bash
-# Install Ollama
-curl -fsSL https://ollama.com/install.sh | sh
-
-# Pull pre-trained medical model
-ollama pull meditron
-
-# Test it
-ollama run meditron "What are the symptoms of Type 2 diabetes?"
-```
-
----
-
-### Option 2: Train Your Own (Recommended)
+### Train Your Own Model
 
 Train on custom medical data in 3 steps:
 
